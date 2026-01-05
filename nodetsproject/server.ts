@@ -39,7 +39,7 @@ app.post("/send-audio", upload.single("audio"), async (req: Request, res: Respon
       type: file.mimetype || "audio/webm",
     });
 
-    console.log("Sending audio to SDK…");
+    console.log("📡 Sending audio to SDK…");
 
     const sdkResponse = await sdk.reportIncident({
       audio: audioBlob as any, // Cast to any if SDK types are strictly browser-blobs
