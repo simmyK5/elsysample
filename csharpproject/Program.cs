@@ -10,8 +10,8 @@ var app = builder.Build();
 // Configuration
 // ------------------------------
 const string SDK_URL = "https://api.eslyqurity.com/api/sdk/incidents";
-const string API_KEY = "$2b$10$c6Y402lEQeUn51VGKLzunuI2flbapcSWufvz4CuDl9nQtXBKS4GfK";
-const string EMAIL = "simmykheswa@outlook.com";
+const string API_KEY = "";
+const string EMAIL = "";
 
 // ------------------------------
 // POST /send-audio

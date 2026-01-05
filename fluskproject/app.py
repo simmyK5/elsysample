@@ -5,9 +5,9 @@ import os
 app = Flask(__name__)
 
 # SDK configuration
-SDK_URL = "https://api.eslyqurity.com"
-API_KEY = "$2b$10$c6Y402lEQeUn51VGKLzunuI2flbapcSWufvz4CuDl9nQtXBKS4GfK"
-EMAIL = "simmykheswa@outlook.com"
+SDK_URL = "https://api.eslyqurity.com/api/sdk/incidents"
+API_KEY = ""
+EMAIL = ""
 
 UPLOAD_FOLDER = "uploads"
 os.makedirs(UPLOAD_FOLDER, exist_ok=True)

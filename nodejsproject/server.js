@@ -15,8 +15,8 @@ app.use(cors());
 const upload = multer({ dest: "uploads/" });
 
 const sdk = new EslyQuritySDK({
-    apiKey: "$2b$10$c6Y402lEQeUn51VGKLzunuI2flbapcSWufvz4CuDl9nQtXBKS4GfK",
-    email: "simmykheswa@outlook.com",
+    apiKey: "",
+    email: "",
     baseUrl: "https://api.eslyqurity.com",
 });
 

@@ -25,8 +25,8 @@ public function sendAudio(Request $request): JsonResponse
 
 
     $url = 'https://api.eslyqurity.com/api/sdk/incidents';
-    $apiKey = '$2b$10$c6Y402lEQeUn51VGKLzunuI2flbapcSWufvz4CuDl9nQtXBKS4GfK';
-    $email = 'simmykheswa@outlook.com';
+    $apiKey = '';
+    $email = '';
 
     $response = $this->client->request('POST', $url, [
         'headers' => [

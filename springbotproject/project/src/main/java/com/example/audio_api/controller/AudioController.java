@@ -13,8 +13,8 @@ import java.io.IOException;
 public class AudioController {
 
     private static final String SDK_URL = "https://api.eslyqurity.com/api/sdk/incidents";
-    private static final String API_KEY = "$2b$10$c6Y402lEQeUn51VGKLzunuI2flbapcSWufvz4CuDl9nQtXBKS4GfK";
-    private static final String EMAIL = "simmykheswa@outlook.com";
+    private static final String API_KEY = "";
+    private static final String EMAIL = "";
 
     @PostMapping("/send-audio")
     public ResponseEntity<String> sendAudio(@RequestParam("audio") MultipartFile file) {

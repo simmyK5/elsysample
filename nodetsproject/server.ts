@@ -17,8 +17,8 @@ const upload = multer({ dest: "uploads/" });
 app.use(express.static("public"));
 
 const sdk = new EslyQuritySDK({
-  apiKey: "$2b$10$c6Y402lEQeUn51VGKLzunuI2flbapcSWufvz4CuDl9nQtXBKS4GfK",
-  email: "simmykheswa@outlook.com",
+  apiKey: "",
+  email: "",
   baseUrl: "https://api.eslyqurity.com",
 });
 
@@ -39,7 +39,7 @@ app.post("/send-audio", upload.single("audio"), async (req: Request, res: Respon
       type: file.mimetype || "audio/webm",
     });
 
-    console.log("📡 Sending audio to SDK…");
+    console.log("Sending audio to SDK…");
 
     const sdkResponse = await sdk.reportIncident({
       audio: audioBlob as any, // Cast to any if SDK types are strictly browser-blobs

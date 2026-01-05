@@ -11,8 +11,8 @@ class AudioController extends Controller
    
 
     private $SDK_URL = 'https://api.eslyqurity.com/api/sdk/incidents';
-    private $API_KEY = '$2b$10$c6Y402lEQeUn51VGKLzunuI2flbapcSWufvz4CuDl9nQtXBKS4GfK';
-    private $EMAIL = 'simmykheswa@outlook.com';
+    private $API_KEY = '';
+    private $EMAIL = '';
 
     public function sendAudio(Request $request)
     {

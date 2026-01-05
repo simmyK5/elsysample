@@ -5,8 +5,8 @@ from django.views.decorators.csrf import csrf_exempt
 
 # Constants
 SDK_URL = "https://api.eslyqurity.com/api/sdk/incidents" # Ensure NO trailing slash here
-API_KEY = "$2b$10$c6Y402lEQeUn51VGKLzunuI2flbapcSWufvz4CuDl9nQtXBKS4GfK"
-EMAIL = "simmykheswa@outlook.com"
+API_KEY = ""
+EMAIL = ""
 
 # Create upload folder like you did in Flask
 UPLOAD_FOLDER = "uploads"
