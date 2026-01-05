@@ -1,0 +1,14 @@
+C:\eslyquritysample\csharpfrontendproject\bin\Debug\net9.0\csharpfrontendproject.exe
+C:\eslyquritysample\csharpfrontendproject\bin\Debug\net9.0\csharpfrontendproject.deps.json
+C:\eslyquritysample\csharpfrontendproject\bin\Debug\net9.0\csharpfrontendproject.runtimeconfig.json
+C:\eslyquritysample\csharpfrontendproject\bin\Debug\net9.0\csharpfrontendproject.dll
+C:\eslyquritysample\csharpfrontendproject\bin\Debug\net9.0\csharpfrontendproject.pdb
+C:\eslyquritysample\csharpfrontendproject\obj\Debug\net9.0\csharpfrontendproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\eslyquritysample\csharpfrontendproject\obj\Debug\net9.0\csharpfrontendproject.AssemblyInfoInputs.cache
+C:\eslyquritysample\csharpfrontendproject\obj\Debug\net9.0\csharpfrontendproject.AssemblyInfo.cs
+C:\eslyquritysample\csharpfrontendproject\obj\Debug\net9.0\csharpfrontendproject.csproj.CoreCompileInputs.cache
+C:\eslyquritysample\csharpfrontendproject\obj\Debug\net9.0\csharpfrontendproject.dll
+C:\eslyquritysample\csharpfrontendproject\obj\Debug\net9.0\refint\csharpfrontendproject.dll
+C:\eslyquritysample\csharpfrontendproject\obj\Debug\net9.0\csharpfrontendproject.pdb
+C:\eslyquritysample\csharpfrontendproject\obj\Debug\net9.0\csharpfrontendproject.genruntimeconfig.cache
+C:\eslyquritysample\csharpfrontendproject\obj\Debug\net9.0\ref\csharpfrontendproject.dll
